@@ -1,0 +1,12 @@
+antimicrobial peptide|antimicrobial peptides|Antimicrobial peptide|Antimicrobial peptides
+antibiotic|antibiotics
+bacteria|bacterial
+biofilm|biofilms
+drug|drugs
+peptide|peptides
+resistance|resistant
+infection|infections
+microbiology|microorganism|microorganisms
+activity|activities
+mechanism|mechanisms
+peptides|peptide
