@@ -1,4 +1,3 @@
-Institution1	Institution2	Weight
 Centro di Riferimento Oncologico della Basilicata	Max Planck Institute for Chemical Ecology	2
 Centro di Riferimento Oncologico della Basilicata	University of Basilicata	2
 Centro di Riferimento Oncologico della Basilicata	Università Cattolica del Sacro Cuore	2
