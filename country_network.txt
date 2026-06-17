@@ -1,29 +1,28 @@
-Country1	Country2	Weight
-AU	CN	2
-AU	US	2
-CN	US	2
-DE	IT	2
-AT	CA	1
-AT	NL	1
-CA	NL	1
-HU	IL	1
-AU	BR	1
-AU	DE	1
-AU	ES	1
-AU	IE	1
-BR	CN	1
-BR	DE	1
-BR	ES	1
-BR	IE	1
-BR	US	1
-CN	DE	1
-CN	ES	1
-CN	IE	1
-DE	ES	1
-DE	IE	1
-DE	US	1
-ES	IE	1
-ES	US	1
-IE	US	1
-ES	PT	1
-JP	US	1
+Australia	China	2
+Australia	United States	2
+China	United States	2
+Germany	Italy	2
+Austria	Canada	1
+Austria	Netherlands	1
+Canada	Netherlands	1
+Hungary	Israel	1
+Australia	Brazil	1
+Australia	Germany	1
+Australia	Spain	1
+Australia	IE	1
+Brazil	China	1
+Brazil	Germany	1
+Brazil	Spain	1
+Brazil	IE	1
+Brazil	United States	1
+China	Germany	1
+China	Spain	1
+China	IE	1
+Germany	Spain	1
+Germany	IE	1
+Germany	United States	1
+Spain	IE	1
+Spain	United States	1
+IE	United States	1
+Spain	PT	1
+JP	United States	1
