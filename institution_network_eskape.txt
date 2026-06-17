@@ -1,0 +1,306 @@
+Institution1	Institution2	Weight
+Centro di Riferimento Oncologico della Basilicata	Max Planck Institute for Chemical Ecology	2
+Centro di Riferimento Oncologico della Basilicata	University of Basilicata	2
+Centro di Riferimento Oncologico della Basilicata	Università Cattolica del Sacro Cuore	2
+Max Planck Institute for Chemical Ecology	University of Basilicata	2
+Max Planck Institute for Chemical Ecology	Università Cattolica del Sacro Cuore	2
+University of Basilicata	Università Cattolica del Sacro Cuore	2
+Amsterdam UMC Location University of Amsterdam	Amsterdam University Medical Centers	1
+Amsterdam UMC Location University of Amsterdam	Association of Dutch Burn Centres	1
+Amsterdam UMC Location University of Amsterdam	BioTechMed-Graz	1
+Amsterdam UMC Location University of Amsterdam	Institute of Infection and Immunity	1
+Amsterdam UMC Location University of Amsterdam	Leiden University	1
+Amsterdam UMC Location University of Amsterdam	Leiden University Medical Center	1
+Amsterdam UMC Location University of Amsterdam	University of Amsterdam	1
+Amsterdam University Medical Centers	Association of Dutch Burn Centres	1
+Amsterdam University Medical Centers	BioTechMed-Graz	1
+Amsterdam University Medical Centers	Institute of Infection and Immunity	1
+Amsterdam University Medical Centers	Leiden University	1
+Amsterdam University Medical Centers	Leiden University Medical Center	1
+Amsterdam University Medical Centers	University of Amsterdam	1
+Association of Dutch Burn Centres	BioTechMed-Graz	1
+Association of Dutch Burn Centres	Institute of Infection and Immunity	1
+Association of Dutch Burn Centres	Leiden University	1
+Association of Dutch Burn Centres	Leiden University Medical Center	1
+Association of Dutch Burn Centres	University of Amsterdam	1
+BioTechMed-Graz	Institute of Infection and Immunity	1
+BioTechMed-Graz	Leiden University	1
+BioTechMed-Graz	Leiden University Medical Center	1
+BioTechMed-Graz	University of Amsterdam	1
+Institute of Infection and Immunity	Leiden University	1
+Institute of Infection and Immunity	Leiden University Medical Center	1
+Institute of Infection and Immunity	University of Amsterdam	1
+Leiden University	Leiden University Medical Center	1
+Leiden University	University of Amsterdam	1
+Leiden University Medical Center	University of Amsterdam	1
+Peter MacCallum Cancer Centre	The University of Melbourne	1
+Peter MacCallum Cancer Centre	University of California, San Francisco	1
+Peter MacCallum Cancer Centre	Zhejiang Sci-Tech University	1
+The University of Melbourne	University of California, San Francisco	1
+The University of Melbourne	Zhejiang Sci-Tech University	1
+University of California, San Francisco	Zhejiang Sci-Tech University	1
+AgroParisTech	Centre National de la Recherche Scientifique	1
+AgroParisTech	Délégation Centre-Est	1
+AgroParisTech	Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	1
+AgroParisTech	Laboratoire Lorrain de Chimie Moléculaire	1
+AgroParisTech	Microbiologie de l’alimentation au service de la santé	1
+AgroParisTech	Université Paris-Saclay	1
+AgroParisTech	Université de Lorraine	1
+Centre National de la Recherche Scientifique	Délégation Centre-Est	1
+Centre National de la Recherche Scientifique	Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	1
+Centre National de la Recherche Scientifique	Laboratoire Lorrain de Chimie Moléculaire	1
+Centre National de la Recherche Scientifique	Microbiologie de l’alimentation au service de la santé	1
+Centre National de la Recherche Scientifique	Université Paris-Saclay	1
+Centre National de la Recherche Scientifique	Université de Lorraine	1
+Délégation Centre-Est	Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	1
+Délégation Centre-Est	Laboratoire Lorrain de Chimie Moléculaire	1
+Délégation Centre-Est	Microbiologie de l’alimentation au service de la santé	1
+Délégation Centre-Est	Université Paris-Saclay	1
+Délégation Centre-Est	Université de Lorraine	1
+Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	Laboratoire Lorrain de Chimie Moléculaire	1
+Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	Microbiologie de l’alimentation au service de la santé	1
+Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	Université Paris-Saclay	1
+Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement	Université de Lorraine	1
+Laboratoire Lorrain de Chimie Moléculaire	Microbiologie de l’alimentation au service de la santé	1
+Laboratoire Lorrain de Chimie Moléculaire	Université Paris-Saclay	1
+Laboratoire Lorrain de Chimie Moléculaire	Université de Lorraine	1
+Microbiologie de l’alimentation au service de la santé	Université Paris-Saclay	1
+Microbiologie de l’alimentation au service de la santé	Université de Lorraine	1
+Université Paris-Saclay	Université de Lorraine	1
+Kaohsiung Medical University	National Taiwan Ocean University	1
+Kaohsiung Medical University	National Taiwan University	1
+National Taiwan Ocean University	National Taiwan University	1
+Centro di Riferimento Oncologico della Basilicata	Istituti di Ricovero e Cura a Carattere Scientifico	1
+Istituti di Ricovero e Cura a Carattere Scientifico	Max Planck Institute for Chemical Ecology	1
+Istituti di Ricovero e Cura a Carattere Scientifico	University of Basilicata	1
+Istituti di Ricovero e Cura a Carattere Scientifico	Università Cattolica del Sacro Cuore	1
+Cappadocia University	Erciyes University	1
+HUN-REN Szegedi Biológiai Kutatóközpont	Hungarian Academy of Sciences	1
+HUN-REN Szegedi Biológiai Kutatóközpont	Institute of Biochemistry	1
+HUN-REN Szegedi Biológiai Kutatóközpont	Institute of Biophysics	1
+HUN-REN Szegedi Biológiai Kutatóközpont	SeqOmics Biotechnology (Hungary)	1
+HUN-REN Szegedi Biológiai Kutatóközpont	Technion – Israel Institute of Technology	1
+HUN-REN Szegedi Biológiai Kutatóközpont	University of Szeged	1
+Hungarian Academy of Sciences	Institute of Biochemistry	1
+Hungarian Academy of Sciences	Institute of Biophysics	1
+Hungarian Academy of Sciences	SeqOmics Biotechnology (Hungary)	1
+Hungarian Academy of Sciences	Technion – Israel Institute of Technology	1
+Hungarian Academy of Sciences	University of Szeged	1
+Institute of Biochemistry	Institute of Biophysics	1
+Institute of Biochemistry	SeqOmics Biotechnology (Hungary)	1
+Institute of Biochemistry	Technion – Israel Institute of Technology	1
+Institute of Biochemistry	University of Szeged	1
+Institute of Biophysics	SeqOmics Biotechnology (Hungary)	1
+Institute of Biophysics	Technion – Israel Institute of Technology	1
+Institute of Biophysics	University of Szeged	1
+SeqOmics Biotechnology (Hungary)	Technion – Israel Institute of Technology	1
+SeqOmics Biotechnology (Hungary)	University of Szeged	1
+Technion – Israel Institute of Technology	University of Szeged	1
+APC Microbiome Institute	Centre for Plant Biotechnology and Genomics	1
+APC Microbiome Institute	European Molecular Biology Laboratory	1
+APC Microbiome Institute	Fudan University	1
+APC Microbiome Institute	Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	1
+APC Microbiome Institute	Max Delbrück Center	1
+APC Microbiome Institute	Queensland University of Technology	1
+APC Microbiome Institute	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+APC Microbiome Institute	Shanghai Institute for Science of Science	1
+APC Microbiome Institute	Sun Yat-sen University	1
+APC Microbiome Institute	The First Affiliated Hospital, Sun Yat-sen University	1
+APC Microbiome Institute	Translational Research Institute	1
+APC Microbiome Institute	Translational Therapeutics (United States)	1
+APC Microbiome Institute	Universidad Politécnica de Madrid	1
+APC Microbiome Institute	Universidade Federal de São Carlos	1
+APC Microbiome Institute	University College Cork	1
+APC Microbiome Institute	University of Pennsylvania	1
+APC Microbiome Institute	University of Würzburg	1
+APC Microbiome Institute	Zhongshan Hospital	1
+Centre for Plant Biotechnology and Genomics	European Molecular Biology Laboratory	1
+Centre for Plant Biotechnology and Genomics	Fudan University	1
+Centre for Plant Biotechnology and Genomics	Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	1
+Centre for Plant Biotechnology and Genomics	Max Delbrück Center	1
+Centre for Plant Biotechnology and Genomics	Queensland University of Technology	1
+Centre for Plant Biotechnology and Genomics	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+Centre for Plant Biotechnology and Genomics	Shanghai Institute for Science of Science	1
+Centre for Plant Biotechnology and Genomics	Sun Yat-sen University	1
+Centre for Plant Biotechnology and Genomics	The First Affiliated Hospital, Sun Yat-sen University	1
+Centre for Plant Biotechnology and Genomics	Translational Research Institute	1
+Centre for Plant Biotechnology and Genomics	Translational Therapeutics (United States)	1
+Centre for Plant Biotechnology and Genomics	Universidad Politécnica de Madrid	1
+Centre for Plant Biotechnology and Genomics	Universidade Federal de São Carlos	1
+Centre for Plant Biotechnology and Genomics	University College Cork	1
+Centre for Plant Biotechnology and Genomics	University of Pennsylvania	1
+Centre for Plant Biotechnology and Genomics	University of Würzburg	1
+Centre for Plant Biotechnology and Genomics	Zhongshan Hospital	1
+European Molecular Biology Laboratory	Fudan University	1
+European Molecular Biology Laboratory	Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	1
+European Molecular Biology Laboratory	Max Delbrück Center	1
+European Molecular Biology Laboratory	Queensland University of Technology	1
+European Molecular Biology Laboratory	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+European Molecular Biology Laboratory	Shanghai Institute for Science of Science	1
+European Molecular Biology Laboratory	Sun Yat-sen University	1
+European Molecular Biology Laboratory	The First Affiliated Hospital, Sun Yat-sen University	1
+European Molecular Biology Laboratory	Translational Research Institute	1
+European Molecular Biology Laboratory	Translational Therapeutics (United States)	1
+European Molecular Biology Laboratory	Universidad Politécnica de Madrid	1
+European Molecular Biology Laboratory	Universidade Federal de São Carlos	1
+European Molecular Biology Laboratory	University College Cork	1
+European Molecular Biology Laboratory	University of Pennsylvania	1
+European Molecular Biology Laboratory	University of Würzburg	1
+European Molecular Biology Laboratory	Zhongshan Hospital	1
+Fudan University	Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	1
+Fudan University	Max Delbrück Center	1
+Fudan University	Queensland University of Technology	1
+Fudan University	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+Fudan University	Shanghai Institute for Science of Science	1
+Fudan University	Sun Yat-sen University	1
+Fudan University	The First Affiliated Hospital, Sun Yat-sen University	1
+Fudan University	Translational Research Institute	1
+Fudan University	Translational Therapeutics (United States)	1
+Fudan University	Universidad Politécnica de Madrid	1
+Fudan University	Universidade Federal de São Carlos	1
+Fudan University	University College Cork	1
+Fudan University	University of Pennsylvania	1
+Fudan University	University of Würzburg	1
+Fudan University	Zhongshan Hospital	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Max Delbrück Center	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Queensland University of Technology	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Shanghai Institute for Science of Science	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Sun Yat-sen University	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	The First Affiliated Hospital, Sun Yat-sen University	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Translational Research Institute	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Translational Therapeutics (United States)	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Universidad Politécnica de Madrid	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Universidade Federal de São Carlos	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	University College Cork	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	University of Pennsylvania	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	University of Würzburg	1
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria	Zhongshan Hospital	1
+Max Delbrück Center	Queensland University of Technology	1
+Max Delbrück Center	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+Max Delbrück Center	Shanghai Institute for Science of Science	1
+Max Delbrück Center	Sun Yat-sen University	1
+Max Delbrück Center	The First Affiliated Hospital, Sun Yat-sen University	1
+Max Delbrück Center	Translational Research Institute	1
+Max Delbrück Center	Translational Therapeutics (United States)	1
+Max Delbrück Center	Universidad Politécnica de Madrid	1
+Max Delbrück Center	Universidade Federal de São Carlos	1
+Max Delbrück Center	University College Cork	1
+Max Delbrück Center	University of Pennsylvania	1
+Max Delbrück Center	University of Würzburg	1
+Max Delbrück Center	Zhongshan Hospital	1
+Queensland University of Technology	Shanghai Center for Brain Science and Brain-Inspired Technology	1
+Queensland University of Technology	Shanghai Institute for Science of Science	1
+Queensland University of Technology	Sun Yat-sen University	1
+Queensland University of Technology	The First Affiliated Hospital, Sun Yat-sen University	1
+Queensland University of Technology	Translational Research Institute	1
+Queensland University of Technology	Translational Therapeutics (United States)	1
+Queensland University of Technology	Universidad Politécnica de Madrid	1
+Queensland University of Technology	Universidade Federal de São Carlos	1
+Queensland University of Technology	University College Cork	1
+Queensland University of Technology	University of Pennsylvania	1
+Queensland University of Technology	University of Würzburg	1
+Queensland University of Technology	Zhongshan Hospital	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Shanghai Institute for Science of Science	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Sun Yat-sen University	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	The First Affiliated Hospital, Sun Yat-sen University	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Translational Research Institute	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Translational Therapeutics (United States)	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Universidad Politécnica de Madrid	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Universidade Federal de São Carlos	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	University College Cork	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	University of Pennsylvania	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	University of Würzburg	1
+Shanghai Center for Brain Science and Brain-Inspired Technology	Zhongshan Hospital	1
+Shanghai Institute for Science of Science	Sun Yat-sen University	1
+Shanghai Institute for Science of Science	The First Affiliated Hospital, Sun Yat-sen University	1
+Shanghai Institute for Science of Science	Translational Research Institute	1
+Shanghai Institute for Science of Science	Translational Therapeutics (United States)	1
+Shanghai Institute for Science of Science	Universidad Politécnica de Madrid	1
+Shanghai Institute for Science of Science	Universidade Federal de São Carlos	1
+Shanghai Institute for Science of Science	University College Cork	1
+Shanghai Institute for Science of Science	University of Pennsylvania	1
+Shanghai Institute for Science of Science	University of Würzburg	1
+Shanghai Institute for Science of Science	Zhongshan Hospital	1
+Sun Yat-sen University	The First Affiliated Hospital, Sun Yat-sen University	1
+Sun Yat-sen University	Translational Research Institute	1
+Sun Yat-sen University	Translational Therapeutics (United States)	1
+Sun Yat-sen University	Universidad Politécnica de Madrid	1
+Sun Yat-sen University	Universidade Federal de São Carlos	1
+Sun Yat-sen University	University College Cork	1
+Sun Yat-sen University	University of Pennsylvania	1
+Sun Yat-sen University	University of Würzburg	1
+Sun Yat-sen University	Zhongshan Hospital	1
+The First Affiliated Hospital, Sun Yat-sen University	Translational Research Institute	1
+The First Affiliated Hospital, Sun Yat-sen University	Translational Therapeutics (United States)	1
+The First Affiliated Hospital, Sun Yat-sen University	Universidad Politécnica de Madrid	1
+The First Affiliated Hospital, Sun Yat-sen University	Universidade Federal de São Carlos	1
+The First Affiliated Hospital, Sun Yat-sen University	University College Cork	1
+The First Affiliated Hospital, Sun Yat-sen University	University of Pennsylvania	1
+The First Affiliated Hospital, Sun Yat-sen University	University of Würzburg	1
+The First Affiliated Hospital, Sun Yat-sen University	Zhongshan Hospital	1
+Translational Research Institute	Translational Therapeutics (United States)	1
+Translational Research Institute	Universidad Politécnica de Madrid	1
+Translational Research Institute	Universidade Federal de São Carlos	1
+Translational Research Institute	University College Cork	1
+Translational Research Institute	University of Pennsylvania	1
+Translational Research Institute	University of Würzburg	1
+Translational Research Institute	Zhongshan Hospital	1
+Translational Therapeutics (United States)	Universidad Politécnica de Madrid	1
+Translational Therapeutics (United States)	Universidade Federal de São Carlos	1
+Translational Therapeutics (United States)	University College Cork	1
+Translational Therapeutics (United States)	University of Pennsylvania	1
+Translational Therapeutics (United States)	University of Würzburg	1
+Translational Therapeutics (United States)	Zhongshan Hospital	1
+Universidad Politécnica de Madrid	Universidade Federal de São Carlos	1
+Universidad Politécnica de Madrid	University College Cork	1
+Universidad Politécnica de Madrid	University of Pennsylvania	1
+Universidad Politécnica de Madrid	University of Würzburg	1
+Universidad Politécnica de Madrid	Zhongshan Hospital	1
+Universidade Federal de São Carlos	University College Cork	1
+Universidade Federal de São Carlos	University of Pennsylvania	1
+Universidade Federal de São Carlos	University of Würzburg	1
+Universidade Federal de São Carlos	Zhongshan Hospital	1
+University College Cork	University of Pennsylvania	1
+University College Cork	University of Würzburg	1
+University College Cork	Zhongshan Hospital	1
+University of Pennsylvania	University of Würzburg	1
+University of Pennsylvania	Zhongshan Hospital	1
+University of Würzburg	Zhongshan Hospital	1
+Affiliated Hospital of Southwest Medical University	Chengdu Center for Disease Control and Prevention	1
+Affiliated Hospital of Southwest Medical University	Nankai University	1
+Affiliated Hospital of Southwest Medical University	Sichuan Academy of Traditional Chinese Medicine	1
+Affiliated Hospital of Southwest Medical University	Sichuan Center for Disease Control and Prevention	1
+Affiliated Hospital of Southwest Medical University	Sichuan University	1
+Affiliated Hospital of Southwest Medical University	Southwest Medical University	1
+Affiliated Hospital of Southwest Medical University	State Key Laboratory of Biotherapy	1
+Chengdu Center for Disease Control and Prevention	Nankai University	1
+Chengdu Center for Disease Control and Prevention	Sichuan Academy of Traditional Chinese Medicine	1
+Chengdu Center for Disease Control and Prevention	Sichuan Center for Disease Control and Prevention	1
+Chengdu Center for Disease Control and Prevention	Sichuan University	1
+Chengdu Center for Disease Control and Prevention	Southwest Medical University	1
+Chengdu Center for Disease Control and Prevention	State Key Laboratory of Biotherapy	1
+Nankai University	Sichuan Academy of Traditional Chinese Medicine	1
+Nankai University	Sichuan Center for Disease Control and Prevention	1
+Nankai University	Sichuan University	1
+Nankai University	Southwest Medical University	1
+Nankai University	State Key Laboratory of Biotherapy	1
+Sichuan Academy of Traditional Chinese Medicine	Sichuan Center for Disease Control and Prevention	1
+Sichuan Academy of Traditional Chinese Medicine	Sichuan University	1
+Sichuan Academy of Traditional Chinese Medicine	Southwest Medical University	1
+Sichuan Academy of Traditional Chinese Medicine	State Key Laboratory of Biotherapy	1
+Sichuan Center for Disease Control and Prevention	Sichuan University	1
+Sichuan Center for Disease Control and Prevention	Southwest Medical University	1
+Sichuan Center for Disease Control and Prevention	State Key Laboratory of Biotherapy	1
+Sichuan University	Southwest Medical University	1
+Sichuan University	State Key Laboratory of Biotherapy	1
+Southwest Medical University	State Key Laboratory of Biotherapy	1
+Cooperativa de Ensino Superior Politécnico e Universitário	Universitat de Barcelona	1
+Institute of Chemistry of Silicates named after I.V. Grebenshchikov	Institute of Cytology	1
+Institute of Chemistry of Silicates named after I.V. Grebenshchikov	Institute of Experimental Medicine	1
+Institute of Chemistry of Silicates named after I.V. Grebenshchikov	Saint Petersburg Academic University	1
+Institute of Cytology	Institute of Experimental Medicine	1
+Institute of Cytology	Saint Petersburg Academic University	1
+Institute of Experimental Medicine	Saint Petersburg Academic University	1
+Fujita Health University Hospital	University of Pittsburgh	1
+Norwegian University of Life Sciences	University of Oslo	1
