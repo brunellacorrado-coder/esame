@@ -1,0 +1,406 @@
+China	United States	36
+Australia	China	16
+Germany	United Kingdom	16
+China	United Kingdom	16
+Germany	United States	12
+Australia	United States	11
+India	United States	10
+United Kingdom	United States	10
+Brazil	United States	8
+Australia	United Kingdom	8
+China	HK	8
+France	United Kingdom	8
+China	Germany	7
+Portugal	Spain	7
+China	Pakistan	7
+Canada	China	7
+France	United States	7
+Canada	United States	6
+China	MO	6
+Italy	United States	6
+Canada	United Kingdom	6
+Austria	Netherlands	5
+Australia	Germany	5
+Spain	United States	5
+RO	South Korea	5
+Denmark	United Kingdom	5
+Pakistan	Saudi Arabia	5
+Canada	France	5
+Saudi Arabia	United States	5
+France	Germany	5
+Germany	Italy	4
+Brazil	Germany	4
+Brazil	Spain	4
+China	Spain	4
+Japan	United States	4
+Brazil	Peru	4
+Switzerland	United States	4
+Egypt	Saudi Arabia	4
+South Africa	Spain	4
+China	Taiwan	4
+Brazil	Portugal	4
+Israel	United States	4
+India	Pakistan	4
+India	United Kingdom	4
+China	France	4
+HU	United States	4
+China	Japan	4
+Italy	Spain	4
+South Korea	United States	4
+Australia	Spain	3
+Germany	Switzerland	3
+Canada	Singapore	3
+Turkey	United States	3
+Saudi Arabia	South Africa	3
+Brazil	India	3
+Pakistan	United States	3
+Bangladesh	Saudi Arabia	3
+China	Malaysia	3
+Malaysia	United Kingdom	3
+Germany	Netherlands	3
+China	Switzerland	3
+Switzerland	United Kingdom	3
+India	South Korea	3
+Russia	United States	3
+Canada	IR	3
+India	Italy	3
+Brazil	Netherlands	3
+Brazil	Canada	3
+France	Netherlands	3
+Italy	Poland	3
+China	Saudi Arabia	3
+France	Spain	3
+Germany	Israel	3
+Australia	Canada	3
+Chile	United States	3
+Germany	Turkey	3
+Taiwan	United States	3
+HK	United States	3
+Canada	Germany	3
+Germany	Saudi Arabia	3
+Denmark	United States	3
+China	South Korea	3
+India	Saudi Arabia	3
+Canada	Spain	3
+Mexico	United States	3
+Canada	Netherlands	2
+Brazil	China	2
+Germany	Spain	2
+Ireland	United States	2
+Germany	IR	2
+Italy	Portugal	2
+HR	Italy	2
+Canada	Saudi Arabia	2
+China	SD	2
+Brazil	Denmark	2
+France	IR	2
+Sweden	United Kingdom	2
+Bangladesh	India	2
+France	LB	2
+Australia	Bangladesh	2
+Bangladesh	United Kingdom	2
+China	India	2
+Pakistan	Poland	2
+Bangladesh	South Korea	2
+Saudi Arabia	South Korea	2
+India	Malaysia	2
+Netherlands	United Kingdom	2
+Singapore	United Kingdom	2
+Netherlands	United States	2
+France	United Arab Emirates	2
+New Zealand	United States	2
+Brazil	Colombia	2
+Japan	Switzerland	2
+Italy	Netherlands	2
+Austria	Germany	2
+Egypt	Germany	2
+China	UA	2
+China	Netherlands	2
+China	Sweden	2
+Italy	RS	2
+India	Thailand	2
+Spain	United Kingdom	2
+Israel	United Kingdom	2
+IR	Italy	2
+BO	Sweden	2
+Chile	Spain	2
+HK	United Kingdom	2
+Australia	Pakistan	2
+Australia	Saudi Arabia	2
+Netherlands	Switzerland	2
+Denmark	Norway	2
+Norway	United States	2
+EE	United Kingdom	2
+Bangladesh	France	2
+Brazil	France	2
+Brazil	United Kingdom	2
+Italy	United Kingdom	2
+Chile	China	2
+Australia	France	2
+India	Sweden	2
+Netherlands	Spain	2
+Belgium	Germany	2
+Austria	Canada	1
+HU	Israel	1
+Australia	Brazil	1
+Australia	Ireland	1
+Brazil	Ireland	1
+China	Ireland	1
+Germany	Ireland	1
+Ireland	Spain	1
+GF	Italy	1
+Czech Republic	JO	1
+Denmark	Poland	1
+Germany	Poland	1
+India	Japan	1
+Denmark	Peru	1
+China	MV	1
+Philippines	United States	1
+Saudi Arabia	Spain	1
+India	Singapore	1
+Brazil	South Africa	1
+Peru	Portugal	1
+Peru	South Africa	1
+Peru	Spain	1
+Portugal	South Africa	1
+France	KW	1
+KW	LB	1
+China	Israel	1
+Australia	Sweden	1
+Bangladesh	Sweden	1
+Malaysia	South Korea	1
+China	Poland	1
+India	Poland	1
+Poland	United States	1
+Austria	Bangladesh	1
+Austria	Egypt	1
+Austria	Saudi Arabia	1
+Austria	South Korea	1
+Bangladesh	Egypt	1
+Egypt	South Korea	1
+Australia	Netherlands	1
+KZ	LV	1
+France	RO	1
+France	South Korea	1
+China	LB	1
+China	United Arab Emirates	1
+LB	United Arab Emirates	1
+Australia	HU	1
+Germany	HU	1
+Germany	RO	1
+HU	RO	1
+RO	United States	1
+IR	South Korea	1
+Brazil	GH	1
+GH	United States	1
+Nigeria	South Africa	1
+Ireland	Italy	1
+China	HU	1
+HU	Switzerland	1
+HU	United Kingdom	1
+Germany	JO	1
+Canada	Denmark	1
+Austria	Japan	1
+Germany	Japan	1
+Brazil	Italy	1
+China	KZ	1
+KZ	United Kingdom	1
+ET	India	1
+Brazil	Sweden	1
+Denmark	Sweden	1
+Netherlands	Peru	1
+UA	United Kingdom	1
+China	Czech Republic	1
+Australia	MK	1
+China	MK	1
+Brazil	MO	1
+Canada	MO	1
+France	Sweden	1
+Netherlands	Sweden	1
+JO	Pakistan	1
+JO	Saudi Arabia	1
+Czech Republic	HR	1
+Czech Republic	Italy	1
+Czech Republic	Netherlands	1
+Czech Republic	SK	1
+HR	Netherlands	1
+HR	SK	1
+Italy	SK	1
+Netherlands	SK	1
+China	Indonesia	1
+Italy	Norway	1
+Portugal	RS	1
+RS	Spain	1
+HU	Italy	1
+Malaysia	Pakistan	1
+Malaysia	Saudi Arabia	1
+France	TT	1
+Spain	TT	1
+TT	United Kingdom	1
+Brazil	Chile	1
+Israel	Switzerland	1
+IR	Spain	1
+China	Colombia	1
+Australia	HK	1
+Chile	Colombia	1
+Colombia	United States	1
+Israel	Turkey	1
+Italy	Sweden	1
+Malaysia	United Arab Emirates	1
+Greece	United States	1
+Germany	QA	1
+Germany	Taiwan	1
+QA	Taiwan	1
+QA	Turkey	1
+QA	United States	1
+Taiwan	Turkey	1
+BO	Thailand	1
+Sweden	Thailand	1
+Colombia	Spain	1
+Netherlands	UA	1
+Chile	India	1
+India	Spain	1
+Brazil	QA	1
+China	Finland	1
+Nigeria	United States	1
+HK	Spain	1
+HK	Japan	1
+HK	Switzerland	1
+IR	United States	1
+Australia	BG	1
+BG	China	1
+BG	United States	1
+France	Singapore	1
+China	KN	1
+France	Pakistan	1
+HK	MO	1
+MO	United Kingdom	1
+AL	Italy	1
+Egypt	France	1
+Egypt	United Arab Emirates	1
+Egypt	United Kingdom	1
+United Arab Emirates	United Kingdom	1
+Italy	PS	1
+Egypt	South Africa	1
+Egypt	United States	1
+Germany	South Africa	1
+South Africa	United States	1
+Ireland	United Kingdom	1
+China	Denmark	1
+Denmark	HK	1
+Egypt	India	1
+Egypt	Pakistan	1
+Denmark	EE	1
+Denmark	Finland	1
+Denmark	Germany	1
+EE	Finland	1
+EE	Germany	1
+Finland	Germany	1
+Finland	United Kingdom	1
+Brazil	New Zealand	1
+Bangladesh	Brazil	1
+Bangladesh	Germany	1
+Bangladesh	Netherlands	1
+Bangladesh	United States	1
+IR	Russia	1
+Italy	Singapore	1
+France	Switzerland	1
+Canada	Egypt	1
+Canada	India	1
+Australia	Malaysia	1
+Australia	New Zealand	1
+Netherlands	South Korea	1
+Australia	Portugal	1
+France	Portugal	1
+Taiwan	United Kingdom	1
+Canada	Portugal	1
+Portugal	United States	1
+Brazil	Saudi Arabia	1
+New Zealand	United Kingdom	1
+South Africa	South Korea	1
+South Korea	Spain	1
+Colombia	Italy	1
+Denmark	South Korea	1
+Norway	South Korea	1
+India	Ireland	1
+Philippines	Taiwan	1
+Australia	Denmark	1
+Australia	Mexico	1
+Denmark	Mexico	1
+Canada	Poland	1
+ET	South Korea	1
+Australia	Switzerland	1
+Brazil	Turkey	1
+India	Turkey	1
+Mexico	Saudi Arabia	1
+Argentina	South Africa	1
+Argentina	Spain	1
+Canada	ZW	1
+France	ZW	1
+United Kingdom	ZW	1
+United States	ZW	1
+IS	Sweden	1
+Germany	Portugal	1
+Belgium	France	1
+NA	South Africa	1
+France	HK	1
+Germany	HK	1
+ER	Germany	1
+ER	RW	1
+ER	SD	1
+ER	Saudi Arabia	1
+ER	Sweden	1
+Germany	RW	1
+Germany	SD	1
+Germany	Sweden	1
+RW	SD	1
+RW	Saudi Arabia	1
+RW	Sweden	1
+SD	Saudi Arabia	1
+SD	Sweden	1
+Saudi Arabia	Sweden	1
+Canada	TN	1
+Spain	TN	1
+Mexico	United Kingdom	1
+Italy	Pakistan	1
+Italy	Saudi Arabia	1
+Belgium	India	1
+Belgium	Sweden	1
+Germany	Norway	1
+Australia	HR	1
+Belgium	Italy	1
+IR	Malaysia	1
+Australia	Turkey	1
+China	Turkey	1
+Germany	Pakistan	1
+Pakistan	Turkey	1
+New Zealand	Norway	1
+New Zealand	Sweden	1
+Norway	Sweden	1
+Australia	South Africa	1
+Bangladesh	Canada	1
+Bangladesh	South Africa	1
+Canada	South Africa	1
+France	Saudi Arabia	1
+France	South Africa	1
+AM	Italy	1
+Ireland	Singapore	1
+Indonesia	Taiwan	1
+South Korea	Sweden	1
+Sweden	United States	1
+China	Greece	1
+Indonesia	New Zealand	1
+Greece	United Kingdom	1
+Czech Republic	India	1
+Czech Republic	United Kingdom	1
+Austria	Chile	1
+Austria	Czech Republic	1
+Austria	Mexico	1
+Austria	United States	1
+Chile	Czech Republic	1
+Chile	Mexico	1
+Czech Republic	Mexico	1
+Czech Republic	United States	1
+Austria	France	1
+Austria	United Kingdom	1
+Malaysia	United States	1
