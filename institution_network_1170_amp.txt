@@ -208,7 +208,7 @@ HES-SO University of Applied Sciences and Arts Western Switzerland	University of
 Erasmus MC	Erasmus University Rotterdam	2
 Toscana Life Sciences	University of Siena	2
 Italian Institute of Technology	University of Naples Federico II	2
-University of Campania "Luigi Vanvitelli"	University of Naples Federico II	2
+University of Campania Luigi Vanvitelli	University of Naples Federico II	2
 Hangzhou Xixi hospital	Zhejiang University	2
 National Taiwan University	Taipei Medical University	2
 AREA Science Park	University of Trieste	2
@@ -239,7 +239,7 @@ Chinese Academy of Medical Sciences & Peking Union Medical College	Nankai Univer
 Henan University of Technology	Zhengzhou University	2
 Biotechnology Research Center	Bushehr University of Medical Sciences	2
 Bushehr University of Medical Sciences	Iran University of Medical Sciences	2
-University of Bari Aldo Moro	University of Campania "Luigi Vanvitelli"	2
+University of Bari Aldo Moro	University of Campania Luigi Vanvitelli	2
 Gdańsk Medical University	Marche Polytechnic University	2
 Marche Polytechnic University	University of Gdańsk	2
 Chinese Academy of Medical Sciences & Peking Union Medical College	First Affiliated Hospital of Kunming Medical University	2
@@ -1484,16 +1484,16 @@ Alexandru Ioan Cuza University	Chonnam National University Hospital	1
 Chonnam National University Hospital	Chosun University	1
 Chonnam National University Hospital	Kongju National University	1
 Istituto Pasteur	Italian Institute of Technology	1
-Istituto Pasteur	University of Campania "Luigi Vanvitelli"	1
+Istituto Pasteur	University of Campania Luigi Vanvitelli	1
 Istituto Pasteur	University of Naples Federico II	1
 Istituto Pasteur	University of Pittsburgh	1
 Italian Institute of Technology	Sapienza University of Rome	1
-Italian Institute of Technology	University of Campania "Luigi Vanvitelli"	1
+Italian Institute of Technology	University of Campania Luigi Vanvitelli	1
 Italian Institute of Technology	University of Pittsburgh	1
-Sapienza University of Rome	University of Campania "Luigi Vanvitelli"	1
+Sapienza University of Rome	University of Campania Luigi Vanvitelli	1
 Sapienza University of Rome	University of Naples Federico II	1
 Sapienza University of Rome	University of Pittsburgh	1
-University of Campania "Luigi Vanvitelli"	University of Pittsburgh	1
+University of Campania Luigi Vanvitelli	University of Pittsburgh	1
 University of Naples Federico II	University of Pittsburgh	1
 Marine Biodiversity Institute of Korea	National Institute of Ecology	1
 Marine Biodiversity Institute of Korea	Sunchon National University	1
@@ -2719,8 +2719,8 @@ Persian Gulf University	Shahid Beheshti University of Medical Sciences	1
 Persian Gulf University	University of Minnesota	1
 Shahid Beheshti University of Medical Sciences	University of Minnesota	1
 Bulgarian Academy of Sciences	Institute for Nuclear Research and Nuclear Energy	1
-Bulgarian Academy of Sciences	Sofia University "St. Kliment Ohridski"	1
-Institute for Nuclear Research and Nuclear Energy	Sofia University "St. Kliment Ohridski"	1
+Bulgarian Academy of Sciences	Sofia University St. Kliment Ohridski	1
+Institute for Nuclear Research and Nuclear Energy	Sofia University St. Kliment Ohridski	1
 Dezhou University	Griffith University	1
 Dezhou University	Indiana University School of Medicine	1
 Dezhou University	Indiana University – Purdue University Indianapolis	1
@@ -2886,7 +2886,7 @@ Ceinge Biotecnologie Avanzate (Italy)	Istituto Nazionale Biostrutture e Biosiste
 Ceinge Biotecnologie Avanzate (Italy)	University of Basilicata	1
 Istituto Nazionale Biostrutture e Biosistemi	University of Basilicata	1
 University of Basilicata	University of Naples Federico II	1
-University of Campania "Luigi Vanvitelli"	University of Milan	1
+University of Campania Luigi Vanvitelli	University of Milan	1
 COMSATS University Islamabad	Henan Academy of Agricultural Sciences	1
 COMSATS University Islamabad	Huazhong Agricultural University	1
 Henan Academy of Agricultural Sciences	Huazhong Agricultural University	1
@@ -2899,10 +2899,10 @@ Iran University of Medical Sciences	Pasteur Institute of Iran	1
 Iran University of Medical Sciences	Tehran University of Medical Sciences	1
 Pasteur Institute of Iran	Tehran University of Medical Sciences	1
 Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies	University of Bari Aldo Moro	1
-Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies	University of Campania "Luigi Vanvitelli"	1
+Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies	University of Campania Luigi Vanvitelli	1
 Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies	University of Elbasan	1
 University of Bari Aldo Moro	University of Elbasan	1
-University of Campania "Luigi Vanvitelli"	University of Elbasan	1
+University of Campania Luigi Vanvitelli	University of Elbasan	1
 Instituto Butantan	Universidade Estadual Paulista (Unesp)	1
 Instituto Butantan	Universidade de Brasília	1
 China Agricultural University	Institute of Animal Sciences	1
@@ -3377,7 +3377,7 @@ University Malaya Medical Centre	University of Nottingham Malaysia Campus	1
 University of Malaya	University of Nottingham Malaysia Campus	1
 Macau University of Science and Technology	Zhengzhou University	1
 Jiangnan University	State Key Laboratory of Food Science and Technology	1
-University of Campania "Luigi Vanvitelli"	University of Teramo	1
+University of Campania Luigi Vanvitelli	University of Teramo	1
 Hospital Universiti Sains Malaysia	Universiti Sains Malaysia	1
 ETH Zurich	Institute of Medical Microbiology and Hygiene	1
 ETH Zurich	University Hospital Regensburg	1
@@ -4389,17 +4389,17 @@ Université Polytechnique Hauts-de-France	École Centrale de Lille	1
 Université d'Artois	Université de Lille	1
 Université d'Artois	École Centrale de Lille	1
 Monash University	Novo Nordisk (Denmark)	1
-Monash University	Universidad Autónoma de Zacatecas "Francisco García Salinas"	1
+Monash University	Universidad Autónoma de Zacatecas Francisco García Salinas	1
 Monash University	Universidad Autónoma del Estado de Morelos	1
 Monash University	Universidad Nacional Autónoma de México	1
 Monash University	Universidad Politécnica de Zacatecas	1
-Novo Nordisk (Denmark)	Universidad Autónoma de Zacatecas "Francisco García Salinas"	1
+Novo Nordisk (Denmark)	Universidad Autónoma de Zacatecas Francisco García Salinas	1
 Novo Nordisk (Denmark)	Universidad Autónoma del Estado de Morelos	1
 Novo Nordisk (Denmark)	Universidad Nacional Autónoma de México	1
 Novo Nordisk (Denmark)	Universidad Politécnica de Zacatecas	1
-Universidad Autónoma de Zacatecas "Francisco García Salinas"	Universidad Autónoma del Estado de Morelos	1
-Universidad Autónoma de Zacatecas "Francisco García Salinas"	Universidad Nacional Autónoma de México	1
-Universidad Autónoma de Zacatecas "Francisco García Salinas"	Universidad Politécnica de Zacatecas	1
+Universidad Autónoma de Zacatecas Francisco García Salinas	Universidad Autónoma del Estado de Morelos	1
+Universidad Autónoma de Zacatecas Francisco García Salinas	Universidad Nacional Autónoma de México	1
+Universidad Autónoma de Zacatecas Francisco García Salinas	Universidad Politécnica de Zacatecas	1
 Universidad Autónoma del Estado de Morelos	Universidad Nacional Autónoma de México	1
 Universidad Autónoma del Estado de Morelos	Universidad Politécnica de Zacatecas	1
 Universidad Nacional Autónoma de México	Universidad Politécnica de Zacatecas	1
@@ -4494,8 +4494,8 @@ Kermanshah University of Medical Sciences	Shahid Beheshti University of Medical 
 Kermanshah University of Medical Sciences	Tabriz University of Medical Sciences	1
 Council of Scientific and Industrial Research	Institute of Microbial Technology	1
 Hiroshima University	National Institute of Infectious Diseases	1
-Instituto de Parasitología y Biomedicina "López - Neyra"	Universidad de Sevilla	1
-Instituto de Parasitología y Biomedicina "López - Neyra"	University of Groningen	1
+Instituto de Parasitología y Biomedicina López - Neyra	Universidad de Sevilla	1
+Instituto de Parasitología y Biomedicina López - Neyra	University of Groningen	1
 Foshan University	University of Guelph	1
 Central South University	Third Xiangya Hospital	1
 Chinese Academy of Agricultural Sciences	Northeast Agricultural University	1
@@ -5312,7 +5312,7 @@ Lehigh University	Shanghai University of Engineering Science	1
 Lehigh University	Stockholm University	1
 Shanghai University of Engineering Science	Stockholm University	1
 Northwest A&F University	Sudan Medical Specialization Board	1
-Istituto Zooprofilattico Sperimentale della Lombardia e dell'Emilia Romagna "Bruno Ubertini"	University of Parma	1
+Istituto Zooprofilattico Sperimentale della Lombardia e dell'Emilia Romagna Bruno Ubertini	University of Parma	1
 Agricultural University of Athens	Poultry Research Institute	1
 Agricultural University of Athens	Shandong Academy of Agricultural Sciences	1
 Agricultural University of Athens	Shandong Agricultural University	1
